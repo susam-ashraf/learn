@@ -1,0 +1,26 @@
+@font-face{
+font-family:"Lato Light";
+src:url("../fonts/Lato-Light.ttf") format("truetype");
+
+}
+@font-face{
+font-family:"RobotoSlab-Bold";
+src:url("../fonts/RobotoSlab-Bold.ttf") format("truetype");
+}
+@font-face{
+font-family:"RobotoSlab-Regular";
+src:url("../fonts/RobotoSlab-Regular.ttf") format("truetype");
+}
+@font-face{
+font-family:"Roboto-Medium";
+src:url("../fonts/Roboto-Medium.ttf") format("truetype");
+}
+@font-face{
+font-family:"Roboto-Regular";
+src:url("../fonts/Roboto-Regular.ttf") format("truetype");
+}
+
+@font-face{
+font-family:"Lato-Italic";
+src:url("../fonts/Lato-Italic.ttf") format("truetype");
+}
